@@ -1,5 +1,6 @@
 ![user] (https://github.com/vishvjeet-thakur/Delivery_web_app/blob/9f0d342a139cdef282f538d005ed0389d962b9b0/localhost_3000_user(Samsung%20Galaxy%20S8%2B).png)
-
+![delivery] (https://github.com/vishvjeet-thakur/Delivery_web_app/blob/9f0d342a139cdef282f538d005ed0389d962b9b0/localhost_3000_delivery(Samsung%20Galaxy%20S8%2B).png)
+![otp] (https://github.com/vishvjeet-thakur/Delivery_web_app/blob/9f0d342a139cdef282f538d005ed0389d962b9b0/localhost_3000_delivery(Samsung%20Galaxy%20S8%2B)(1).png)
 
 # Getting Started with Create React App
 
